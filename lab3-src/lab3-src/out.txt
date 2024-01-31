@@ -1,0 +1,15 @@
+total 348
+-rw-r--r-- 1 rahma rahma   338 Oct 20  2022 Makefile
+-rw-r--r-- 1 rahma rahma  6711 Nov  7 17:52 command.cc
+-rw-r--r-- 1 rahma rahma   754 Nov  7 17:45 command.h
+-rw-r--r-- 1 rahma rahma 55432 Nov  7 17:56 command.o
+drwxr-xr-x 2 rahma rahma  4096 Nov  7 13:44 examples
+-rw-r--r-- 1 rahma rahma 47264 Nov  7 17:56 lex.yy.c
+-rw-r--r-- 1 rahma rahma 44176 Nov  7 17:56 lex.yy.o
+-rwxr-x--- 1 rahma rahma     0 Nov  7 17:56 out.txt
+-rwxr-xr-x 1 rahma rahma 87040 Nov  7 17:56 shell
+-rw-r--r-- 1 rahma rahma   856 Nov  7 17:54 shell.l
+-rw-r--r-- 1 rahma rahma  2392 Nov  7 17:49 shell.y
+-rw-r--r-- 1 rahma rahma 51342 Nov  7 17:56 y.tab.c
+-rw-r--r-- 1 rahma rahma  2787 Nov  7 17:56 y.tab.h
+-rw-r--r-- 1 rahma rahma 26064 Nov  7 17:56 y.tab.o
